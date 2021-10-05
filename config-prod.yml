@@ -1,0 +1,5 @@
+server:
+  port: 8444
+  name: config-prod
+  version: 1
+  
